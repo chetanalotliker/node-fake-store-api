@@ -1,10 +1,10 @@
 ## Node Fake Store API
 
-- This is the Node js project includes the integration of the fake api `https://fakestoreapi.com/products` with an endpoint fake-store (Get method)
+- This is the Node js project includes the integration of the fake store api `https://fakestoreapi.com/products` with an endpoint fake-store (Get method)
 
-### View API Demo :
+### View API Demo
 
-- GET (Fake API) :
+- GET (Fake API) :https://node-fake-store-api.onrender.com/fake-store
 
 ### To start the application
 
