@@ -4,7 +4,10 @@
 
 ### View API Demo
 
-- GET (Fake API) :https://node-fake-store-api.onrender.com/fake-store
+- GET :https://node-fake-store-api.onrender.com
+  ![alt text](image.png)
+- GET (fake-store) :https://node-fake-store-api.onrender.com/fake-store
+  ![alt text](image-1.png)
 
 ### To start the application
 
